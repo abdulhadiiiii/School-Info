@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+body{
+    background: rgba(36, 92, 88, 0.644);
+}
+
+.heading h2{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 5%;
+    padding-bottom: 3%;
+    text-decoration: underline;
+    font-weight: 2700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.heading p{
+    padding-bottom: 5%;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.branch1 h1{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 4%;
+    padding-bottom: 2%;
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.branch1 p{
+    padding-bottom: 3%;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.branch1 img{
+    position: absolute;
+    padding-left: 25%;
+}
+
+.branch2 h1{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 35%;
+    padding-bottom: 2%;
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.branch2 p{
+    padding-bottom: 3%;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.branch2 img{
+    position: absolute;
+    padding-left: 25%;
+    padding-top: 2%;
+}
+
+.branch3 h1{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 25%;
+    padding-bottom: 2%;
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.branch3 p{
+    padding-bottom: 3%;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.branch3 img{
+    position: absolute;
+    padding-left: 25%;
+    padding-top: 2%;
+}
+
+.branch4 h1{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 20%;
+    padding-bottom: 2%;
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.branch4 p{
+    padding-bottom: 3%;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.branch4 img{
+    position: absolute;
+    padding-left: 25%;
+    padding-top: 2%;
+}
+
+.branch5 h1{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 25%;
+    padding-bottom: 2%;
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.branch5 p{
+    padding-bottom: 3%;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.branch5 img{
+    position: absolute;
+    padding-left: 25%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+
+.campus-col img{
+    display: flex;
+    justify-content: center;
+    padding-left: 400px;
+    transition: 0.5s;
+    box-sizing: content-box;
+    border-radius: 20px;
+}
+
+.campus-col:hover img{
+    transform: scale(1.1);
+}
